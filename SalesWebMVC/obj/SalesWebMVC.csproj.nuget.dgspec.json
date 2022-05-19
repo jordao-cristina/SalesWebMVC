@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj": {}
+    "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj": {
+    "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
         "projectName": "SalesWebMVC",
-        "projectPath": "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectPath": "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
         "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMvc\\SalesWebMVC\\obj\\",
+        "outputPath": "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMVC\\SalesWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
