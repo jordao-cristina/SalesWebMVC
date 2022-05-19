@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X7p+ri234hTIQKffBCFRZT19vpTiPsx3mWdUmxZr6Az41EQb+HqjEZOpEyGAADbvXs+0GfsOlDzlYrEuMrZHYQ==",
+  "dgSpecHash": "6wK31l4LS8xf6cumP8IDIwaftBSa0B2S/MvpjaXOB2kscadyNB3sopBVuvm1k6AVVRj7SPsN0bKdysY0Qe2D+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+  "projectFilePath": "C:\\Users\\Utilizador\\Desktop\\Diversos Projetos .Net\\02_Udemy\\SalesWebMvc\\SalesWebMVC\\SalesWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Utilizador\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
