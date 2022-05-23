@@ -44,3 +44,6 @@ C:\Users\Utilizador\Desktop\Diversos Projetos .Net\02_Udemy\SalesWebMvc\SalesWeb
 C:\Users\Utilizador\Desktop\Diversos Projetos .Net\02_Udemy\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\Utilizador\Desktop\Diversos Projetos .Net\02_Udemy\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.cshtml.g.cs
 C:\Users\Utilizador\Desktop\Diversos Projetos .Net\02_Udemy\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.cshtml.g.cs
+C:\Users\Utilizador\Desktop\Diversos Projetos .Net\02_Udemy\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.cshtml.g.cs
+C:\Users\Utilizador\Desktop\Diversos Projetos .Net\02_Udemy\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.cshtml.g.cs
+C:\Users\Utilizador\Desktop\Diversos Projetos .Net\02_Udemy\SalesWebMvc\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.cshtml.g.cs
